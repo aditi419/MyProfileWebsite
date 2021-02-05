@@ -1,0 +1,140 @@
+
+
+
+
+section {
+   
+}
+
+.Heading {
+    background-color: red;
+    width:1200px;
+    height:300px
+}
+
+h1 {
+    color: black;
+    margin-top:-100px;
+    background-color: #ffffff;
+    font-size:40px;
+
+}
+
+.Starter {
+   width:800px;
+    margin-left:190px;
+    background-color: #ffffff
+}
+
+.MyProfile {
+    font-size:50px;
+    font-weight: bold;
+    margin-top:-200px;
+
+}
+
+.Name {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top:-20
+}
+
+.Age {
+    font-size:30;
+    color: red;
+}
+
+.Grade {
+    font-size:30px;
+    color: red;
+    margin-left:80px;
+    margin-top: -65
+}
+
+.Math {
+    color: red;
+    font-size:30px;
+        margin-left:600px;
+    margin-top:-65
+}
+
+.girl {
+ 
+    margin-left: -100px;
+}
+
+.AAM {
+    font-size:40px;
+    font-weight: bold;
+    margin-top:100
+}
+
+.AboutMe {
+    font-size: 22px; 
+}
+
+.MyHobbies {
+    font-size:40px;
+}
+
+.HobbieText {
+    font-size: 22px;
+}
+
+.LeftSide {
+    background-color: red;
+}
+
+.ending {
+    background-color: red;
+    width: 800px;
+}
+
+h2 {
+    
+}
+
+.ContactMe {
+    color: #ffffff;
+    font-size:45px;
+}
+
+iframe {
+    margin-left:300px;
+}
+
+EmailMe{
+color: black;
+    font-size:22px;
+    width:300px;
+    margin-right:400px;
+    
+}
+.EmailMe {
+    font-size: 22px;
+    font-size: bold;
+    width: 300px;
+    margin-right: 400px;
+    margin-top: -170px;
+    color: #ffffff;
+}
+
+a {
+    font-size: 30px;
+    color: #ffffff;
+    margin-right: 380
+}
+
+.GirlOne {
+    margin-right:  400px;
+}
+
+.GirlTwo {
+    margin-left:400px;
+    margin-top: -240px;
+}
+
+.GirlThree {
+    margin-top:-300px;
+    margin-right:-100
+}
